@@ -1,0 +1,3 @@
+*.exe
+*.txt
+vuln_output/
